@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/96a35138bbd21fefd029c0c6efe80361/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/63a908ffa4d5718c41ef40ebd8672322/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/4e19b303afc5023517531745d11c0052/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/8eca9bc09f33364b87b6ccc5e24aa64e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4a1dc6a77ff0335c911aa3ba1c51dda1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/d8107b93ca41a238d04d277157f542bd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/ddb7459acba77970654129a7cb313e19/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/e2bde7faecfe7d6d9165b436b8ecda98/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/9c015bf990d34d4ad523ce90531e50c3/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/96a35138bbd21fefd029c0c6efe80361/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/96a35138bbd21fefd029c0c6efe80361/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/63a908ffa4d5718c41ef40ebd8672322/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/63a908ffa4d5718c41ef40ebd8672322/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/4e19b303afc5023517531745d11c0052/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/4e19b303afc5023517531745d11c0052/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/8eca9bc09f33364b87b6ccc5e24aa64e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/8eca9bc09f33364b87b6ccc5e24aa64e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4a1dc6a77ff0335c911aa3ba1c51dda1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4a1dc6a77ff0335c911aa3ba1c51dda1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/d8107b93ca41a238d04d277157f542bd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/d8107b93ca41a238d04d277157f542bd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/ddb7459acba77970654129a7cb313e19/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/ddb7459acba77970654129a7cb313e19/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/e2bde7faecfe7d6d9165b436b8ecda98/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/e2bde7faecfe7d6d9165b436b8ecda98/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/9c015bf990d34d4ad523ce90531e50c3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/9c015bf990d34d4ad523ce90531e50c3/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:9:5-11:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/96a35138bbd21fefd029c0c6efe80361/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:10:9-35
+		INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:13:5-32:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/96a35138bbd21fefd029c0c6efe80361/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/96a35138bbd21fefd029c0c6efe80361/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/63a908ffa4d5718c41ef40ebd8672322/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/63a908ffa4d5718c41ef40ebd8672322/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/4e19b303afc5023517531745d11c0052/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/4e19b303afc5023517531745d11c0052/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/8eca9bc09f33364b87b6ccc5e24aa64e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/8eca9bc09f33364b87b6ccc5e24aa64e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4a1dc6a77ff0335c911aa3ba1c51dda1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4a1dc6a77ff0335c911aa3ba1c51dda1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/d8107b93ca41a238d04d277157f542bd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/d8107b93ca41a238d04d277157f542bd/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/ddb7459acba77970654129a7cb313e19/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/ddb7459acba77970654129a7cb313e19/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/e2bde7faecfe7d6d9165b436b8ecda98/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/e2bde7faecfe7d6d9165b436b8ecda98/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/9c015bf990d34d4ad523ce90531e50c3/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/9c015bf990d34d4ad523ce90531e50c3/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.example.camera.MainActivity
+ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:20:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.example.camera.Page2Activity
+ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/jatin/Downloads/CameraExNotCompleted/app/src/main/AndroidManifest.xml:29:13-60
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/96a35138bbd21fefd029c0c6efe80361/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/63a908ffa4d5718c41ef40ebd8672322/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/63a908ffa4d5718c41ef40ebd8672322/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/4e19b303afc5023517531745d11c0052/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/4e19b303afc5023517531745d11c0052/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/8eca9bc09f33364b87b6ccc5e24aa64e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/8eca9bc09f33364b87b6ccc5e24aa64e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4a1dc6a77ff0335c911aa3ba1c51dda1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/4a1dc6a77ff0335c911aa3ba1c51dda1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/d8107b93ca41a238d04d277157f542bd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/d8107b93ca41a238d04d277157f542bd/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/ddb7459acba77970654129a7cb313e19/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/ddb7459acba77970654129a7cb313e19/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/e2bde7faecfe7d6d9165b436b8ecda98/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/e2bde7faecfe7d6d9165b436b8ecda98/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/9c015bf990d34d4ad523ce90531e50c3/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/9c015bf990d34d4ad523ce90531e50c3/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/96a35138bbd21fefd029c0c6efe80361/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/jatin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/96a35138bbd21fefd029c0c6efe80361/AndroidManifest.xml:26:9-47
